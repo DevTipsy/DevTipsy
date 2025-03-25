@@ -3,13 +3,13 @@
 
   <img src="https://cdn0.iconfinder.com/data/icons/hola-augmented-reality/64/augmented-reality-computer-developer-coding-programming-512.png" align="right" width="250px">
 
-  - 🔭 I’m currently working on [JEE](https://github.com/DevTipsy?tab=repositories)
+  - 🔭 I’m currently working on [SwiftUI](https://github.com/DevTipsy?tab=repositories)
 
-- 🌱 I’m currently learning **JEE**
+- 🌱 I’m currently learning **SwiftUI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DevTipsy?tab=repositories](https://github.com/DevTipsy?tab=repositories)
 
-- 💬 Ask me about **JEE, CSS**
+- 💬 Ask me about **Swift,Java, CSS**
 
 - 📫 How to reach me **thibault_sanclemente@icloud.com**
 
