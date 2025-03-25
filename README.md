@@ -1,5 +1,5 @@
   <h1 align="center">Hi 👋, I'm Thibault</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A passionate iOS and React from France</h3>
 
   <img src="https://cdn0.iconfinder.com/data/icons/hola-augmented-reality/64/augmented-reality-computer-developer-coding-programming-512.png" align="right" width="250px">
 
